@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
+    "name": "Epic Game 1155 Dogfood",
+    "description": "Dogfood Test EIP1155 on Immutable zkEVM",
+    "image": "https://carmen0208.github.io/dogfood-epicgame-metadata/tokens/collection.png",
     "external_link": "https://immutable.com" 
 }

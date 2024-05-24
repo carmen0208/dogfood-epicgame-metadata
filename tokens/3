@@ -1,25 +1,25 @@
 {
-    "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
-    "token_id": "3",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
-    ]
-  }
+  "id": 2,
+  "image": "https://carmen0208.github.io/dogfood-epicgame-metadata/tokens/3.png",
+  "token_id": "2",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Sanjin",
+  "description": "Sanjin",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "HP",
+      "value": "1000"
+    },
+    {
+      "trait_type": "Max HP",
+      "value": "1000"
+    },
+    {
+      "trait_type": "Attach Damage",
+      "value": "50"
+    }
+  ]
+}
