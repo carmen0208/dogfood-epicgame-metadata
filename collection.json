@@ -1,6 +1,6 @@
 {
     "name": "Epic Game 1155 Dogfood",
     "description": "Dogfood Test EIP1155 on Immutable zkEVM",
-    "image": "https://carmen0208.github.io/dogfood-epicgame-metadata/tokens/collection.png",
+    "image": "https://carmen0208.github.io/dogfood-epicgame-metadata/collection.png",
     "external_link": "https://immutable.com" 
 }
